@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "RestartTest (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "RestartTest (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
